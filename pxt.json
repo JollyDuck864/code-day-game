@@ -16,7 +16,8 @@
         "Scott Kelly Mission to Hubble Game": "github:code-ninjas-home-office/scott-kelly-games#d149d2820ecba1efc226e28bc0f7dd17537a6873",
         "pxt-tick-event": "github:microsoft/pxt-tick-event#v0.2.0",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
-        "storyboard": "*"
+        "storyboard": "*",
+        "Mouse+ extension by Yu-Hayate": "github:Yu-Hayate/Yu-hayates_Mouse#v1.0.4"
     },
     "files": [
         "main.blocks",
