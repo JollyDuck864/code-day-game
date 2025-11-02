@@ -1,0 +1,65 @@
+{
+    "name": "Code Day Game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "browser-events": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "sprite-scaling": "*",
+        "arcade-mml": "github:riknoll/arcade-mml#v0.0.1",
+        "ArcadeMIDI": "github:UnsignedArduino/ArcadeMIDI#af121437d59fd6b2cec54501ac437db1eaa766f5",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "keyboard": "*",
+        "Scott Kelly Mission to Hubble Game": "github:code-ninjas-home-office/scott-kelly-games#d149d2820ecba1efc226e28bc0f7dd17537a6873",
+        "pxt-tick-event": "github:microsoft/pxt-tick-event#v0.2.0",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "storyboard": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.61",
+        "tag": "v2.0.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/46e1f878ac2b238b3b86f17ea661d738b1395aaa",
+        "target": "2.0.61",
+        "pxt": "11.3.65",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#D51A1A",
+        "#6A0618",
+        "#990000",
+        "#D13333",
+        "#7D6464",
+        "#257179",
+        "#38b764",
+        "#E5C552",
+        "#000000",
+        "#41a6f6",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#FFFFFF",
+        "#1a1c2c"
+    ]
+}
